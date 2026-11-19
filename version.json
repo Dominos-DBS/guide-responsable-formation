@@ -1,6 +1,12 @@
 {
-  "version": "0.17.1",
+  "version": "0.17.2",
   "releases": [
+    {
+      "version": "0.17.2",
+      "notes": [
+        "Sélecteur de langue pour exporter le planning en français, en arabe ou en anglais."
+      ]
+    },
     {
       "version": "0.17.1",
       "notes": [
@@ -61,3 +67,4 @@
     }
   ]
 }
+
