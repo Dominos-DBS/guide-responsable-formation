@@ -1,0 +1,36 @@
+{
+  "version": "0.16.4",
+  "releases": [
+    {
+      "version": "0.16.4",
+      "notes": [
+        "Vérification des mises à jour depuis l’application.",
+        "Résumé des nouveautés et confirmation avant le téléchargement."
+      ]
+    },
+    {
+      "version": "0.16.3",
+      "notes": [
+        "Modèle de formulaire IFC D.15 prêt à adapter."
+      ]
+    },
+    {
+      "version": "0.16.2",
+      "notes": [
+        "Sources de détection cliquables et propositions de formation à partir du diagnostic."
+      ]
+    },
+    {
+      "version": "0.16.1",
+      "notes": [
+        "Plafond indicatif CNFCPP, SMIG de l’entreprise et tarifs tunisiens de référence."
+      ]
+    },
+    {
+      "version": "0.16.0",
+      "notes": [
+        "Ventilation du planning par groupe et alertes sur les objectifs et les budgets."
+      ]
+    }
+  ]
+}
