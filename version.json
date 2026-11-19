@@ -1,6 +1,12 @@
 {
-  "version": "0.17.0",
+  "version": "0.17.1",
   "releases": [
+    {
+      "version": "0.17.1",
+      "notes": [
+        "Colonnes Thème et Objectif élargies. Texte des cellules limité à trois lignes, avec accès au texte complet."
+      ]
+    },
     {
       "version": "0.17.0",
       "notes": [
