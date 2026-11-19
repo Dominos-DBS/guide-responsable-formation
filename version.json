@@ -1,6 +1,13 @@
 {
-  "version": "0.16.4",
+  "version": "0.16.5",
   "releases": [
+    {
+      "version": "0.16.5",
+      "notes": [
+        "Aperçu du formulaire IFC D.15 et édition question par question.",
+        "Suggestions par thème et confirmation de chaque champ proposé dans les besoins."
+      ]
+    },
     {
       "version": "0.16.4",
       "notes": [
