@@ -1,6 +1,13 @@
 {
-  "version": "0.16.6",
+  "version": "0.17.0",
   "releases": [
+    {
+      "version": "0.17.0",
+      "notes": [
+        "Export du planning en français, en Excel, HTML interactif ou PDF.",
+        "Import local des collaborateurs depuis Excel ou Access avec aperçu et rapprochement des matricules."
+      ]
+    },
     {
       "version": "0.16.6",
       "notes": [
