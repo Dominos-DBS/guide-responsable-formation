@@ -1,6 +1,13 @@
 {
-  "version": "0.16.5",
+  "version": "0.16.6",
   "releases": [
+    {
+      "version": "0.16.6",
+      "notes": [
+        "Reformulations d’objectifs centrées sur l’action du participant.",
+        "Consignes d’ouverture du fichier local pour travailler hors connexion."
+      ]
+    },
     {
       "version": "0.16.5",
       "notes": [
