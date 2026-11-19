@@ -1,6 +1,14 @@
 {
-  "version": "0.17.3",
+  "version": "0.17.4",
   "releases": [
+    {
+      "version": "0.17.4",
+      "notes": [
+        "Les en-têtes des tableaux de planification, d’achats et de suivi restent sur une seule ligne.",
+        "Exports du planning adaptés à la projection et à l’impression. Les traductions manquantes peuvent être complétées avant de générer le fichier.",
+        "Identification des documents avec référence, indice, date, auteur et entreprise. Présentation de l’entreprise et fichier PDF ou texte ajoutés au profil."
+      ]
+    },
     {
       "version": "0.17.3",
       "notes": [
