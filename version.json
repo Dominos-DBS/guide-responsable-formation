@@ -1,6 +1,12 @@
 {
-  "version": "0.17.2",
+  "version": "0.17.3",
   "releases": [
+    {
+      "version": "0.17.3",
+      "notes": [
+        "Moins de signalements erronés sur les objectifs. Les reformulations proposées sont visibles immédiatement et les objectifs relus peuvent être conservés."
+      ]
+    },
     {
       "version": "0.17.2",
       "notes": [
@@ -67,4 +73,3 @@
     }
   ]
 }
-
